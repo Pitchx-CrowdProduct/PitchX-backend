@@ -8,9 +8,9 @@ const port = process.env.PORT || 3000; // Default port is 3000
 
 // Start processing messages
 processMessages();
-app('/', (req, res) => {
-  res.send('Hello World!');
-});
+// app('/', (req, res) => {
+//   res.send('Hello World!');
+// });
 // Listen for incoming connections
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
