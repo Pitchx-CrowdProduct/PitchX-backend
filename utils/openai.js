@@ -11,7 +11,7 @@ async function extractCompanyData(text) {
       function: {
         name: "extract_company_data",
         description:
-          "Extraction of company data from the Pitchdeck PDF, including category, traction, funds raised, customers, market size, and team if there is direct words like traction try matching meaning of the context.all of them should be one word except traction and summary if nothing comes up or any youtube video or audio means return null for all the pairs",
+          "Extraction of company data from the Pitchdeck PDF, including category, traction, funds raised, customers, market size, and team if there is direct words like traction try matching meaning of the context all of them should be one word except traction and summary if nothing comes up meaning nothing in companies data or any youtube video or audio or irrelevant infomration ingore it and return null for all the fields in the json ojects",
         parameters: {
           type: "object",
           properties: {
