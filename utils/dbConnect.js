@@ -19,12 +19,7 @@ async function dbConnect() {
     }
 
     if (!cached.promise) {
-        const opts = {
-            useNewUrlParser: true,
-            useUnifiedTopology: true,
-        };
-
-        cached.promise = mongoose.connect(MONGODB_URI, opts).then((mongoose) => {
+        cached.promise = mongoose.connect(MONGODB_URI).then((mongoose) => {
             console.log("Successfully connected to MongoDB."); // Print message upon successful connection
             return mongoose;
         });
