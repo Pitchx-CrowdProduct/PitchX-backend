@@ -24,7 +24,7 @@ async function processFileAsync(s3Response, session) {
       const teamMembers = openAIResponse[0].team.split(', ');
       let teamSize = teamMembers.length;
       if (openAIResponse[0].team.trim() === "") {
-          numNames = 0;
+          teamSize = 0;
       }
       
       const companyDetails = {
