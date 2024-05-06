@@ -28,6 +28,9 @@ async function processFileAsync(s3Response, session) {
           teamSize = 0;
       }
     }
+    else{
+      teamSize = 0;
+    }
       const companyDetails = {
         name: openAIResponse[0].name,
         category: openAIResponse[0].category,
