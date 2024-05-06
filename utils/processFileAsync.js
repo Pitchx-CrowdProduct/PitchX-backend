@@ -21,7 +21,12 @@ async function processFileAsync(s3Response, session) {
   
       const openAIResponse = await processTextWithOpenAI(extractedText);
       logger.info(`OpenAI Response: ${JSON.stringify(openAIResponse)}`);
-  
+      const teamMembers = openAIResponse[0].team.split(', ');
+      let teamSize = teamMembers.length;
+      if (openAIResponse[0].team.trim() === "") {
+          numNames = 0;
+      }
+      
       const companyDetails = {
         name: openAIResponse[0].name,
         category: openAIResponse[0].category,
@@ -30,11 +35,17 @@ async function processFileAsync(s3Response, session) {
         customers: openAIResponse[0].customers,
         marketSize: openAIResponse[0].market_size,
         team: openAIResponse[0].team,
+        teamSize:teamSize,
         locatedAt: openAIResponse[0].locatedAt,
         revenue: openAIResponse[0].revenue,
         summary: openAIResponse[0].summary,
       };
-  
+      const existingFile = await User.findOne({
+        auth0Id: session.user.sub,
+        'files.fileName': s3Response.Key
+      });
+
+      if(!existingFile) {
       await User.findOneAndUpdate(
         { auth0Id: session.user.sub },
         {
@@ -52,7 +63,7 @@ async function processFileAsync(s3Response, session) {
         },
         { upsert: true, new: true }
       );
-  
+    }
       logger.info("User updated with file details asynchronously");
     } catch (error) {
       logger.error("Error in async processing", error);

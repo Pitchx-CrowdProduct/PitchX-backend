@@ -40,9 +40,13 @@ const fileSchema = new mongoose.Schema({
     type: String,
     // required: true,
   },
-  team: {
+  teamMembers: {
     type: String,
     // required: true,
+  },
+  teamSize: {
+    type: Number,
+    // required:true,
   },
   sourceId: {
     type: String,
