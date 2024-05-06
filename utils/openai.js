@@ -30,19 +30,19 @@ async function extractCompanyData(text) {
                     },
                     traction: {
                       type: "string",
-                      description: "Current traction the company has gained."
+                      description: "Current traction the company has gained only consider those points which looks good and have some meaning. mentioned in the pitchdeck don't presume anything."
                     },
                     funds_raised: {
                       type: "string",
-                      description: "Total funds raised by the company across all funding rounds."
+                      description: "Total funds raised by the company across all funding rounds mentioned in the pitchdeck don't presume anything."
                     },
                     customers: {
                       type: "string",
-                      description: "Total number of customers currently using the company's services, apps, or any other offerings."
+                      description: "Total number of customers currently using the company's services, apps, or any other offerings mentioned in the pitchdeck don't presume anything."
                     },
                     market_size: {
                       type: "string",
-                      description: "The company's current market size within its industry, such as annual revenue or number of transactions."
+                      description: "The company's current market size within its industry, such as annual revenue or total addressable market (TAM). Mentioned in the pitchdeck don't presume anything"
                     },
                     team: {
                       type: "string",
@@ -50,11 +50,11 @@ async function extractCompanyData(text) {
                     },
                     revenue: {
                       type: "string",
-                      description: "Revenue of the compnay mentioned in the pitchdeck"
+                      description: "Revenue of the compnay mentioned in the pitchdeck don't presume anything."
                     },
                     locatedAt: {
                       type: "string",
-                      description: "company is located at which place like banglore, delhi, hyderbad etcc mentioned in the pitchdeck"
+                      description: "company is located at which place like bangaluru, delhi, hyderbad etc... mentioned in the pitchdeck don't presume anything."
                     },
                     summary: {
                       type: "string",
