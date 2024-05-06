@@ -34,7 +34,7 @@ async function processFileAsync(s3Response, session) {
         fundsRaised: openAIResponse[0].funds_raised,
         customers: openAIResponse[0].customers,
         marketSize: openAIResponse[0].market_size,
-        team: openAIResponse[0].team,
+        teamMembers: openAIResponse[0].team,
         teamSize:teamSize,
         locatedAt: openAIResponse[0].locatedAt,
         revenue: openAIResponse[0].revenue,
