@@ -21,16 +21,16 @@ async function processFileAsync(s3Response, session) {
   
       const openAIResponse = await processTextWithOpenAI(extractedText);
       logger.info(`OpenAI Response: ${JSON.stringify(openAIResponse)}`);
+      let teamSize = 0;
       if(openAIResponse[0].team!== null && openAIResponse[0].team!== undefined && openAIResponse[0].team.trim() !== ""){
       const teamMembers = openAIResponse[0].team.split(', ');
-      let teamSize = teamMembers.length;
+      console.log(teamMembers)
+       teamSize = teamMembers.length;
       if (openAIResponse[0].team.trim() === "") {
           teamSize = 0;
       }
     }
-    else{
-      teamSize = 0;
-    }
+  
       const companyDetails = {
         name: openAIResponse[0].name,
         category: openAIResponse[0].category,
