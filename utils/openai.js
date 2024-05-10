@@ -11,7 +11,7 @@ async function extractCompanyData(text) {
       function: {
         name: "extract_company_data",
         description:
-          "Extraction of company data from the Pitchdeck PDF, including category, traction, funds raised, customers, market size, and teamSize, teamName, locatedAt if there is direct words like traction try matching meaning of the context all of them should be one word except traction and summary if nothing comes up meaning nothing in companies data or any youtube video or audio or irrelevant infomration ingore it and return null for all the fields in the json ojects. Importantly if the parsed text doesnt contain information and contain other things think youtube video, just images without any text all this time return null only or need human intervention to understand the context of the text.for those kind of messages return null for all the pobjects. If we dont find any information return null for all the fields in the json object.If the documnent is not realted to pitchdeck or any company data return null for all the fields in the json object.",
+          "Extraction of company data from the Pitchdeck PDF, including category, traction, funds raised, customers, market size, and teamSize, teamName, locatedAt if nothing comes up meaning nothing in companies data or any youtube video or audio or irrelevant infomration ignore it and return null for all the fields in the json ojects. Importantly if the parsed text doesnt contain information and contain other things think youtube video, just images without any text all this time return null only or need human intervention to understand the context of the text for those kind of messages return null for all the pobjects.If the documnent is not realted to pitchdeck or any company, return null for all the fields in the json object. If the data doesnt contain any information about particular company just return null dont process it further return for each and every json field eg.....locatedAt, traction ",
         parameters: {
           type: "object",
           properties: {
@@ -22,23 +22,23 @@ async function extractCompanyData(text) {
                 properties:{
                     name: {
                       type: "string",
-                      description: "Name of the company."
+                      description: "Name of the company if not present return null"
                     },
                     category: {
                       type: "string",
-                      description: "Industry category to which the company belongs, such as Education, Finance, Agriculture. Details like Software Consultancy, Mobile Apps, Blockchain are also relevant."
+                      description: "Industry category to which the company belongs, such as Education, Finance, Agriculture. Details like Software Consultancy, Mobile Apps, Blockchain are also relevant and if not present return null."
                     },
                     traction: {
                       type: "string",
-                      description: "Current traction the company has gained only consider those points which looks good and have some meaning. mentioned in the pitchdeck don't presume anything."
+                      description: "Current traction the company has gained only consider those points which looks good and have some meaning. mentioned in the pitchdeck don't presume anything if not present return null."
                     },
                     funds_raised: {
                       type: "string",
-                      description: "Total funds raised by the company across all funding rounds mentioned in the pitchdeck don't presume anything."
+                      description: "Total funds raised by the company across all funding rounds mentioned in the pitchdeck don't presume anything and merge of all them into single entity like first round funding 2million seed orund 5 million is in pitchdeck output should total value which is 7 million funding if not present return null."
                     },
                     customers: {
                       type: "string",
-                      description: "Total number of customers currently using the company's services, apps, or any other offerings mentioned in the pitchdeck don't presume anything."
+                      description: "Total number of customers currently using the company's services, apps, or any other offerings mentioned in the pitchdeck here dont mention it seperatly give it as single entity don't presume anything."
                     },
                     market_size: {
                       type: "string",
@@ -46,15 +46,15 @@ async function extractCompanyData(text) {
                     },
                     team: {
                       type: "string",
-                      description: "Total number of team members and their names."
+                      description: "Total number of team members and their names and there role co-founders and founders."
                     },
                     revenue: {
                       type: "string",
-                      description: "Revenue of the compnay mentioned in the pitchdeck don't presume anything."
+                      description: "Revenue of the compnay mentioned in the pitchdeck total earned sum up everything into single entity, don't presume anything."
                     },
                     locatedAt: {
                       type: "string",
-                      description: "company is located at which place like bangaluru, delhi, hyderbad etc... mentioned in the pitchdeck don't presume anything."
+                      description: "company is located at which place like bangaluru, delhi, hyderbad etc... mentioned in the pitchdeck don't presume anything like if they released something in some place doesnt mean they they are located in that place."
                     },
                     summary: {
                       type: "string",
