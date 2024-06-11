@@ -17,7 +17,6 @@ app.use(cors());
 app.get('/', (req, res) => {
   res.send('Hello World!');
 });
-// Listen for incoming connections
 app.use(bodyParser.json());
 
 app.post('/extract-text', async (req, res) => {
