@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+const { Schema } = mongoose;
 const fileSchema = new mongoose.Schema({
   fileName: {
     type: String,
@@ -66,19 +67,91 @@ type:Number,
   },
 });
 
-const userSchema = new mongoose.Schema({
-  auth0Id: {
+// const userSchema = new mongoose.Schema({
+//   auth0Id: {
+//     type: String,
+//     required: true,
+//     unique: true,
+//   },
+//   email: {
+//     type: String,
+//     required: true,
+//     unique: true,
+//   },
+  // status: {
+  //   type: String,
+  //   default: "expired",
+  // },
+  // paymentId: {
+  //   type: mongoose.Schema.Types.ObjectId,
+  //   ref: 'PaymentPlans', 
+  // },
+//   files: [fileSchema],
+// });
+
+// const User = mongoose.models.User || mongoose.model("User", userSchema);
+
+// module.exports = User;
+
+
+
+
+const userSchema = new  mongoose.Schema({
+  username: {
     type: String,
     required: true,
-    unique: true,
+    trim: true
   },
   email: {
     type: String,
     required: true,
-    unique: true,
+    trim: true,
+    lowercase: true,
+    match: [/.+@.+\..+/, 'Please fill a valid email address']
   },
-  files: [fileSchema],
+  reviewFiles: [
+    {
+      filename: {
+        type: String,
+        required: true,
+        trim: true
+      },
+      filehash: {
+        type: String,
+        required: true,
+        trim: true
+      },
+      fileUrl: {
+        type: String,
+        required: true,
+        trim: true
+      },
+      fileDetails: {
+        type: Schema.Types.Mixed,
+        required: true
+      },
+      uploadDate: {
+        type: Date,
+        default: Date.now
+      }
+    }
+  ],
+  investorFiles:  [fileSchema],
+  status: {
+    type: String,
+    default: "expired",
+  },
+  paymentPlanId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'PaymentPlans', 
+    default: null
+  },
+  uploadDate: {
+    type: Date,
+    default: Date.now
+  }
 });
+
 
 const User = mongoose.models.User || mongoose.model("User", userSchema);
 

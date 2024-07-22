@@ -7,17 +7,46 @@ const bodyParser = require("body-parser");
 const app = express();
 const processMessages = require("./utils/SqsConsumer");
 const extractTextFromPdf = require("./utils/textParser");
-const port = process.env.PORT || 8000; // Default port is 3000
+const payment = require('./routes/paymentRoutes');
+const port = process.env.PORT || 8000; 
+const { auth } = require('express-oauth2-jwt-bearer');
+const jwt = require('jsonwebtoken');
 
 
-// Start processing messages
+const verifyToken = (req, res, next) => {
+  const bearerHeader = req.headers['authorization'];
+  if (typeof bearerHeader !== 'undefined') {
+    const bearer = bearerHeader.split(' ');
+    const bearerToken = bearer[1];
+    jwt.verify(bearerToken, process.env.JWT_SECRET, (err, decoded) => {
+      if (err) {
+        return res.sendStatus(403);
+      }
+      req.user = decoded;
+      next();
+    });
+  } else {
+    res.sendStatus(403);
+  }
+};
+
+const checkJwt = auth({
+  audience: process.env.AUTH0_AUDIENCE,
+  issuerBaseURL: process.env.AUTH0_ISSUER_BASE_URL,
+});
+
+
 processMessages();
 app.use(morgan('dev'));
+// app.use(auth(config));
 app.use(cors());
-app.get('/', (req, res) => {
+app.get('/', checkJwt, (req, res) => {
   res.send('Hello World!');
 });
 app.use(bodyParser.json());
+
+
+
 
 app.post('/extract-text', async (req, res) => {
   if (!req.body.url) {
@@ -33,6 +62,8 @@ app.post('/extract-text', async (req, res) => {
       res.status(500).send({ error: 'Failed to process the PDF' });
   }
 });
+
+app.use('/api', payment);
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);

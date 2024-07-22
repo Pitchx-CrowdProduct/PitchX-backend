@@ -15,11 +15,17 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "express-jwt": "^8.4.1",
+    "express-oauth2-jwt-bearer": "^1.6.0",
+    "express-openid-connect": "^2.17.1",
+    "jsonwebtoken": "^9.0.2",
+    "jwks-rsa": "^3.1.0",
     "mongoose": "^8.3.3",
     "morgan": "^1.10.0",
     "nodemon": "^3.1.0",
     "openai": "^4.40.1",
     "pdf-parse": "^1.1.1",
+    "razorpay": "^2.9.4",
     "winston": "^3.13.0"
   }
 }

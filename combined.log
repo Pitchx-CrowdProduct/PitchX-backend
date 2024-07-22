@@ -1,0 +1,1351 @@
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:18:44"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:19:04"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:19:04"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:20:04"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:20:24"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:20:24"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:21:24"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:21:44"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:21:44"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:22:44"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:23:05"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:23:05"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:24:05"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:24:25"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:24:25"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:25:25"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:25:45"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:25:45"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:26:45"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:27:05"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:27:05"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:28:05"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:28:25"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:28:25"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:29:25"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:29:46"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:29:46"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:30:46"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:31:06"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:31:06"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:32:06"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:32:26"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:32:26"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:33:26"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:33:47"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:33:47"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:34:47"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:35:07"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:35:07"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:36:07"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:36:27"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:36:27"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:37:27"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:37:47"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:37:47"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:38:47"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:39:08"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:39:08"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:40:08"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:40:28"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:40:28"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:41:28"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:41:48"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:41:48"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:42:48"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:43:08"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:43:08"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:44:08"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:44:28"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:44:28"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:45:28"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:45:49"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:45:49"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:46:49"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:47:09"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:47:09"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:48:09"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:48:29"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:48:29"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:49:29"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:49:49"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:49:49"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:50:49"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:51:10"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:51:10"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:52:10"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:52:30"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:52:30"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:53:30"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:53:50"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:53:50"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:54:50"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:55:10"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:55:10"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:56:10"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:56:30"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:56:30"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:57:30"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:57:51"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:57:51"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 15:58:51"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 15:59:11"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 15:59:11"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:00:11"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:00:31"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:00:31"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:01:31"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:01:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:01:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:02:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:03:12"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:03:12"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:04:12"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:04:32"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:04:32"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:05:32"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:05:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:05:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:06:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:07:13"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:07:13"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:08:13"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:08:33"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:08:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:09:33"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:09:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:09:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:10:53"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:11:13"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:11:13"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:12:13"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:12:34"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:12:34"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:13:34"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:13:54"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:13:54"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:14:54"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:15:14"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:15:14"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:16:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:16:34"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:16:34"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:17:34"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:17:54"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:17:54"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:18:54"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:19:15"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:19:15"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:20:15"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:20:15"}
+{"level":"info","message":"Source ID Response: {\"sourceId\":\"src_V4gbrEnHEYdIlusmQmvUe\"}","service":"mxr","timestamp":"2024-06-18 16:20:29"}
+{"level":"info","message":"Source ID: src_V4gbrEnHEYdIlusmQmvUe","service":"mxr","timestamp":"2024-06-18 16:20:29"}
+{"level":"info","message":"Extracted Text: \n\nAll businesses should \nhave equal opportunity \nto thrive in the AI era.\n\nExisting way of analyzing enterprise data is broken \nCOO inquires on order \nquantity.\nThe Sales & Marketing \nteams take 12+ hours \nwithout reaching \nagreement.\n~60 BAQs asked/wk \ninc. prediction, key \nfactor analysis, \n'what-if' planning.\n# 1\nData-related activities' ranking in \nmost repetitive tasks.\n11.1%\nUnproductive Data Tasks/All User \nTime\n4% of their annual expenses\nBusinesses can save an enormous \namount by correcting this.\nFor context : The avg. net margin an S&P company is 9.35%\n\nWhy can't business users \nget answers they want?\nData may not be in a usable format.\nBusiness users need personalized insights, \npredictions, decision support\nComplex questions require weeks if not \nmonths to get answers\nNavigating multiple \ndashboards, reports is \ntedious\n4\nFortune 500s avg. >200 data sources; \n80% of analysis time spent on data \nprocessing.\nA CEO typically has 10-15 direct \nreports; middle mgmt. has 1-2.\nA consulting firm is engaged for these \nquestions costing typically $50K-$200K\nAn average business users monitors 6-8 \ndashboards and consumes an average of 3 \nreports/week\n\nOngil.ai is an instant \nmessaging platform for \nsenior management across \nindustries and functions \nthat speeds up analytics \ntasks by 85%, from data \ncollection to insights.\n\nHow does Ongil.ai fit in an entire analytics \nteam in a business users' palm?\nAI combines structured & unstructured data into a single source of truth quickly w/ \nminimal manual effort.\nBusiness users control data pipeline, reducing reliance on IT/Analytics support \nand consequently boosting data utility by 9X.\nAlgorithms that required data scientist expertise can now be auto-\ngenerated to answer senior mgmt. queries.\nChat interface for senior management to produce business \nreports for their internal deliberations\n6\n\nWe are leading the Enterprise Generative \nAI space with live deployments.\nSupports natural language \nanalytics queries on \nstructured, unstructured  \ndata. \nHandles unorganized data \nsources\nEven collects datasets on \nthe go based on the \nmanagement's needs\nProduces insightful \nanalysis in seconds\n\nOngil.ai Saves Companies Money by Allowing \nThem To Fully Access and Utilize Data\n5 Seconds\nFaster Access\nFrom 2 Days earlier\n$15K/user\nCost Saving\nAnnual Savings by saving time\n9X\nData Utilization\nBy doing away with static boards\n11\n\nHow does Ongil.ai differ from other tools?\nThis is the \nstaple of BI \ntools.\nData \nConsumption \n- \nVisualization \n& Chatbot\nOngil.ai specializes in this area, essential to 80%+ of work.\nData Processing - Automating Collection (Internal & External), Pre-processing, \nHarmonization, Storing in appropriate databases\nAll BI tools \nprovide \nsome basic \nanalytics \ncapabilities\nData Analysis\nOngil.ai helps \nin this \nprocess \nwhich is \nlargely  \n manual \nAnalysis for \ndecision \nmaking - \nCausal \nAnalysis, \nWhat-if \nanalysis\n20\nMost Laborious\nMost value\n\nOngil.ai use cases\nUse CaseBusiness Outcome\nUnilever\ne-commerce Category\nInsights\nRapid channel expansion\nConsumer & Industrial\nsupplies Fortune-500\nConsumer sentiment &\nproduct sales analysis\nProduct opportunity identified\nat less than 10% of the usual\ncost\nLargest F&B\nmanufacturer\nConversational Analysis\nplatform for retail data\nReduction in report prep time\nby more than 50%\n23\n\nEach of our \ncustomer is \nthe market \nleader in \ntheir \ncategory\n“With Ongil we are able to monitor and rollout optimized pricing and \npromotion strategies across SEA to maximize channel potential \nand growth”\nClaire Hennah \nGlobal VP e-commerce,  Unilever\n\nOur \nPartners\n39","service":"mxr","timestamp":"2024-06-18 16:20:29"}
+{"level":"info","message":"OpenAI Response: [{\"name\":\"Ongil.ai\",\"category\":\"Enterprise Generative AI\",\"traction\":\"Leading the Enterprise Generative AI space with live deployments. Supports natural language analytics queries on structured and unstructured data, handles unorganized data sources, collects datasets on the go, and produces insightful analysis in seconds.\",\"funds_raised\":null,\"customers\":\"Each of our customer is the market leader in their category. Notable clients include Unilever.\",\"market_size\":null,\"team\":\"Claire Hennah - Global VP e-commerce, Unilever (customer testimonial).\",\"revenue\":null,\"locatedAt\":null,\"summary\":\"Ongil.ai is an instant messaging platform for senior management that dramatically speeds up analytics tasks by 85% from data collection to insights. It integrates AI to manage data across structured and unstructured sources, enhances data utilization by 9X, and saves companies significant costs and time. Known use cases include rapid channel expansion for Unilever and cost-effective product opportunity identification.\"}]","service":"mxr","timestamp":"2024-06-18 16:20:41"}
+{"level":"info","message":"User updated with file details asynchronously","service":"mxr","timestamp":"2024-06-18 16:20:41"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:20:41"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:21:02"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:21:02"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:22:02"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:22:22"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:22:22"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:23:22"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:23:42"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:23:42"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:24:42"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:25:02"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:25:02"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:26:02"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:26:23"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:26:23"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:27:23"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:27:43"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:27:43"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:28:43"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:29:03"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:29:03"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:30:03"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:30:23"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:30:23"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:31:23"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:31:43"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:31:43"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:32:43"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:33:04"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:33:04"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:34:04"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:34:24"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:34:24"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:35:24"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:35:44"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:35:44"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 16:36:44"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-18 16:37:04"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-18 16:37:04"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 17:55:56"}
+{"code":"UnknownEndpoint","hostname":"sqs.ap-south-1.amazonaws.com","level":"error","message":"Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.","originalError":{"code":"NetworkingError","errno":-3008,"hostname":"sqs.ap-south-1.amazonaws.com","message":"getaddrinfo ENOTFOUND sqs.ap-south-1.amazonaws.com","region":"ap-south-1","retryable":true,"syscall":"getaddrinfo","time":"2024-06-18T12:25:57.914Z"},"region":"ap-south-1","retryable":true,"service":"mxr","stack":"UnknownEndpoint: Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.\n    at Request.ENOTFOUND_ERROR (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:612:46)\n    at Request.callListeners (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:106:20)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:78:10)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\request.js:686:14)\n    at error (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:443:22)\n    at ClientRequest.<anonymous> (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\http\\node.js:100:9)\n    at ClientRequest.emit (node:events:518:28)\n    at ClientRequest.emit (node:domain:488:12)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)","time":"2024-06-18T12:25:57.915Z","timestamp":"2024-06-18 17:55:57"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 17:56:58"}
+{"code":"UnknownEndpoint","hostname":"sqs.ap-south-1.amazonaws.com","level":"error","message":"Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.","originalError":{"code":"NetworkingError","errno":-3008,"hostname":"sqs.ap-south-1.amazonaws.com","message":"getaddrinfo ENOTFOUND sqs.ap-south-1.amazonaws.com","region":"ap-south-1","retryable":true,"syscall":"getaddrinfo","time":"2024-06-18T12:26:58.215Z"},"region":"ap-south-1","retryable":true,"service":"mxr","stack":"UnknownEndpoint: Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.\n    at Request.ENOTFOUND_ERROR (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:612:46)\n    at Request.callListeners (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:106:20)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:78:10)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\request.js:686:14)\n    at error (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:443:22)\n    at ClientRequest.<anonymous> (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\http\\node.js:100:9)\n    at ClientRequest.emit (node:events:518:28)\n    at ClientRequest.emit (node:domain:488:12)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)","time":"2024-06-18T12:26:58.215Z","timestamp":"2024-06-18 17:56:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 17:57:58"}
+{"code":"UnknownEndpoint","hostname":"sqs.ap-south-1.amazonaws.com","level":"error","message":"Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.","originalError":{"code":"NetworkingError","errno":-3008,"hostname":"sqs.ap-south-1.amazonaws.com","message":"getaddrinfo ENOTFOUND sqs.ap-south-1.amazonaws.com","region":"ap-south-1","retryable":true,"syscall":"getaddrinfo","time":"2024-06-18T12:27:58.525Z"},"region":"ap-south-1","retryable":true,"service":"mxr","stack":"UnknownEndpoint: Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.\n    at Request.ENOTFOUND_ERROR (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:612:46)\n    at Request.callListeners (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:106:20)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:78:10)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\request.js:686:14)\n    at error (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:443:22)\n    at ClientRequest.<anonymous> (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\http\\node.js:100:9)\n    at ClientRequest.emit (node:events:518:28)\n    at ClientRequest.emit (node:domain:488:12)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)","time":"2024-06-18T12:27:58.525Z","timestamp":"2024-06-18 17:57:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 17:58:58"}
+{"code":"UnknownEndpoint","hostname":"sqs.ap-south-1.amazonaws.com","level":"error","message":"Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.","originalError":{"code":"NetworkingError","errno":-3008,"hostname":"sqs.ap-south-1.amazonaws.com","message":"getaddrinfo ENOTFOUND sqs.ap-south-1.amazonaws.com","region":"ap-south-1","retryable":true,"syscall":"getaddrinfo","time":"2024-06-18T12:28:58.973Z"},"region":"ap-south-1","retryable":true,"service":"mxr","stack":"UnknownEndpoint: Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.\n    at Request.ENOTFOUND_ERROR (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:612:46)\n    at Request.callListeners (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:106:20)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:78:10)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\request.js:686:14)\n    at error (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:443:22)\n    at ClientRequest.<anonymous> (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\http\\node.js:100:9)\n    at ClientRequest.emit (node:events:518:28)\n    at ClientRequest.emit (node:domain:488:12)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)","time":"2024-06-18T12:28:58.974Z","timestamp":"2024-06-18 17:58:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 17:59:58"}
+{"code":"UnknownEndpoint","hostname":"sqs.ap-south-1.amazonaws.com","level":"error","message":"Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.","originalError":{"code":"NetworkingError","errno":-3008,"hostname":"sqs.ap-south-1.amazonaws.com","message":"getaddrinfo ENOTFOUND sqs.ap-south-1.amazonaws.com","region":"ap-south-1","retryable":true,"syscall":"getaddrinfo","time":"2024-06-18T12:29:59.125Z"},"region":"ap-south-1","retryable":true,"service":"mxr","stack":"UnknownEndpoint: Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.\n    at Request.ENOTFOUND_ERROR (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:612:46)\n    at Request.callListeners (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:106:20)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:78:10)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\request.js:686:14)\n    at error (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:443:22)\n    at ClientRequest.<anonymous> (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\http\\node.js:100:9)\n    at ClientRequest.emit (node:events:518:28)\n    at ClientRequest.emit (node:domain:488:12)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)","time":"2024-06-18T12:29:59.125Z","timestamp":"2024-06-18 17:59:59"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 18:00:59"}
+{"code":"UnknownEndpoint","hostname":"sqs.ap-south-1.amazonaws.com","level":"error","message":"Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.","originalError":{"code":"NetworkingError","errno":-3008,"hostname":"sqs.ap-south-1.amazonaws.com","message":"getaddrinfo ENOTFOUND sqs.ap-south-1.amazonaws.com","region":"ap-south-1","retryable":true,"syscall":"getaddrinfo","time":"2024-06-18T12:30:59.743Z"},"region":"ap-south-1","retryable":true,"service":"mxr","stack":"UnknownEndpoint: Inaccessible host: `sqs.ap-south-1.amazonaws.com' at port `undefined'. This service may not be available in the `ap-south-1' region.\n    at Request.ENOTFOUND_ERROR (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:612:46)\n    at Request.callListeners (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:106:20)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\sequential_executor.js:78:10)\n    at Request.emit (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\request.js:686:14)\n    at error (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\event_listeners.js:443:22)\n    at ClientRequest.<anonymous> (C:\\Users\\prama\\Desktop\\worker\\node_modules\\aws-sdk\\lib\\http\\node.js:100:9)\n    at ClientRequest.emit (node:events:518:28)\n    at ClientRequest.emit (node:domain:488:12)\n    at TLSSocket.socketErrorListener (node:_http_client:495:9)\n    at TLSSocket.emit (node:events:518:28)","time":"2024-06-18T12:30:59.743Z","timestamp":"2024-06-18 18:00:59"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-18 18:02:02"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:18:01"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:18:22"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-20 14:18:22"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:19:22"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:19:42"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-20 14:19:42"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:20:42"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:21:02"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-20 14:21:02"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:22:02"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:22:23"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-20 14:22:23"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:23:23"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:23:43"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-20 14:23:43"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:24:43"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:25:03"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-20 14:25:03"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:26:03"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:26:04"}
+{"level":"info","message":"Source ID Response: {\"sourceId\":\"src_PuwNHhPBU47tXaOgtIM4s\"}","service":"mxr","timestamp":"2024-06-20 14:26:19"}
+{"level":"info","message":"Source ID: src_PuwNHhPBU47tXaOgtIM4s","service":"mxr","timestamp":"2024-06-20 14:26:19"}
+{"level":"info","message":"Extracted Text: \n\nAll businesses should \nhave equal opportunity \nto thrive in the AI era.\n\nExisting way of analyzing enterprise data is broken \nCOO inquires on order \nquantity.\nThe Sales & Marketing \nteams take 12+ hours \nwithout reaching \nagreement.\n~60 BAQs asked/wk \ninc. prediction, key \nfactor analysis, \n'what-if' planning.\n# 1\nData-related activities' ranking in \nmost repetitive tasks.\n11.1%\nUnproductive Data Tasks/All User \nTime\n4% of their annual expenses\nBusinesses can save an enormous \namount by correcting this.\nFor context : The avg. net margin an S&P company is 9.35%\n\nWhy can't business users \nget answers they want?\nData may not be in a usable format.\nBusiness users need personalized insights, \npredictions, decision support\nComplex questions require weeks if not \nmonths to get answers\nNavigating multiple \ndashboards, reports is \ntedious\n4\nFortune 500s avg. >200 data sources; \n80% of analysis time spent on data \nprocessing.\nA CEO typically has 10-15 direct \nreports; middle mgmt. has 1-2.\nA consulting firm is engaged for these \nquestions costing typically $50K-$200K\nAn average business users monitors 6-8 \ndashboards and consumes an average of 3 \nreports/week\n\nOngil.ai is an instant \nmessaging platform for \nsenior management across \nindustries and functions \nthat speeds up analytics \ntasks by 85%, from data \ncollection to insights.\n\nHow does Ongil.ai fit in an entire analytics \nteam in a business users' palm?\nAI combines structured & unstructured data into a single source of truth quickly w/ \nminimal manual effort.\nBusiness users control data pipeline, reducing reliance on IT/Analytics support \nand consequently boosting data utility by 9X.\nAlgorithms that required data scientist expertise can now be auto-\ngenerated to answer senior mgmt. queries.\nChat interface for senior management to produce business \nreports for their internal deliberations\n6\n\nWe are leading the Enterprise Generative \nAI space with live deployments.\nSupports natural language \nanalytics queries on \nstructured, unstructured  \ndata. \nHandles unorganized data \nsources\nEven collects datasets on \nthe go based on the \nmanagement's needs\nProduces insightful \nanalysis in seconds\n\nOngil.ai Saves Companies Money by Allowing \nThem To Fully Access and Utilize Data\n5 Seconds\nFaster Access\nFrom 2 Days earlier\n$15K/user\nCost Saving\nAnnual Savings by saving time\n9X\nData Utilization\nBy doing away with static boards\n11\n\nHow does Ongil.ai differ from other tools?\nThis is the \nstaple of BI \ntools.\nData \nConsumption \n- \nVisualization \n& Chatbot\nOngil.ai specializes in this area, essential to 80%+ of work.\nData Processing - Automating Collection (Internal & External), Pre-processing, \nHarmonization, Storing in appropriate databases\nAll BI tools \nprovide \nsome basic \nanalytics \ncapabilities\nData Analysis\nOngil.ai helps \nin this \nprocess \nwhich is \nlargely  \n manual \nAnalysis for \ndecision \nmaking - \nCausal \nAnalysis, \nWhat-if \nanalysis\n20\nMost Laborious\nMost value\n\nOngil.ai use cases\nUse CaseBusiness Outcome\nUnilever\ne-commerce Category\nInsights\nRapid channel expansion\nConsumer & Industrial\nsupplies Fortune-500\nConsumer sentiment &\nproduct sales analysis\nProduct opportunity identified\nat less than 10% of the usual\ncost\nLargest F&B\nmanufacturer\nConversational Analysis\nplatform for retail data\nReduction in report prep time\nby more than 50%\n23\n\nEach of our \ncustomer is \nthe market \nleader in \ntheir \ncategory\n“With Ongil we are able to monitor and rollout optimized pricing and \npromotion strategies across SEA to maximize channel potential \nand growth”\nClaire Hennah \nGlobal VP e-commerce,  Unilever\n\nOur \nPartners\n39","service":"mxr","timestamp":"2024-06-20 14:26:19"}
+{"level":"info","message":"OpenAI Response: [{\"name\":\"Ongil.ai\",\"category\":\"Enterprise Generative AI\",\"traction\":\"Leading the space with live deployments, supports wide range of analytics queries\",\"funds_raised\":null,\"customers\":\"Unilever, others in consumer & industrial supplies and largest F&B manufacturer\",\"market_size\":null,\"team\":null,\"revenue\":null,\"locatedAt\":null,\"summary\":\"Ongil.ai is an AI-powered instant messaging platform tailored for senior management that significantly speeds up analytics tasks by integrating structured and unstructured data. It enhances data utility by 9X and saves companies considerable amount by boosting access and utilization efficiency.\"}]","service":"mxr","timestamp":"2024-06-20 14:26:28"}
+{"level":"info","message":"User updated with file details asynchronously","service":"mxr","timestamp":"2024-06-20 14:26:28"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:26:28"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:26:49"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-20 14:26:49"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:27:49"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:28:09"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-20 14:28:09"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:29:09"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:29:29"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-20 14:29:29"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:30:29"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:30:50"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-06-20 14:30:50"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-06-20 14:31:50"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-06-20 14:31:53"}
+{"level":"info","message":"Source ID Response: {\"sourceId\":\"src_1OLNzGyrwIC2iFIKRe5Bk\"}","service":"mxr","timestamp":"2024-06-20 14:31:58"}
+{"level":"info","message":"Source ID: src_1OLNzGyrwIC2iFIKRe5Bk","service":"mxr","timestamp":"2024-06-20 14:31:58"}
+{"level":"info","message":"Extracted Text: \n\nSustainable Indoor air quality management +AC Energy Saving as a \nservice at 0 Capex for large buildings\n\nIntroduction\nAayush Jha\nCo-founder & CEO\n•Ex-Bumper.com (Saif funded)\n•CEO Brightbox India \n(Acquired),\n•Education:\n- National Law University, Patna \n2013, Terra.do, 2022\n\nUdayan Banerjee\nCo-founder & CPO\n•Ex-OYO,\n•Ex- K12 ,\n•Education:\n- B.Tech. IIT (BHU) Varanasi, 2013 \n- PGP in AI, Texas Uni., Austin, 2022 \n\n\nTech30 2022\nForbes 30u30 Asia 2020\nTech for Good, Nasscom 2021 \n \nCNN News18 Young Achiever of the Year in Real-Estate 2020\nBusiness Today’s Coolest Startup of 2019\nTech Innovation with Social impact, Nasscom 2019 \n \n\nWhat happens Indoors ??\nOutdoor \nPollution\nPollen / \nSpores\nMicro\nOrganisms\nmol\nd\nBacteri\na\nIndoor \nParticulate \nMatter (PM)\nOccupants\nPathogen\ns\nVirus\nBacteria\nVOC’s\nSpore\ns\nOutdoor Pollution \n(PM)\nP\nM\nVOC’\ns\nVOC’\ns\n\nChallenges- adoption of air purification & energy efficiency\nConventional Solutions\nClairco Solution\nHigh CapEx cost of \ninstallation with low \naccountability\nData backed \nguaranteed air \nquality & energy \nsavings with \nimmediate ROI\nZero-CapEx \nclean air as a \nservice \n>36 months ROI\nSITC takes several \nmonths\n\nCooling Coil \n\nNanoClair Filters\n\nPurified  Air Into System\n\nLight Source\nSurface Decontamination\n\nNanoClair\nAir Decontamination\n Mechanical Filtration\nContaminated \nAir In\nAHU\nHigh Efficiency Filters (MERV 8+13)\n\nZero CapEx “Clean Air” and “Energy Optimisation” As A Service\nParticulate \nMatter\nIoT & AI based chiller water consumption control \nfor 15-18% building energy saving\nCW In\n\nCW Out\n\n\n•Nanoclair: Patent pending nano-tech for filter-less Pathogen, VOC, NOx \n& SOx removal\n\n•Proprietary AI engines (Last 30+ months data of 300+ spaces): \n\n- For accurate detection of zone heat & latent heat of human body \nusing 3D thermal image processing \n\n- For Filter life prediction enabling ability to guarantee indoor air quality\n\n- For prediction of Outdoor pollution & Indoor occupancy to decide \noptimal amount & time for fresh air intake\n\n\nProprietary Tech (2 Patents granted + 2 Patents pending)\n\nWe help 400k people breathe better air daily\n\n\nWeb/app dashboard with Indoor and \noutdoor air quality data\nEnergy usage data & \nanalytics\nWeb dashboard for Facility Management Team\n\nDisplay of IAQ Parameters for building occupants \nDimensions of Kiosk \nStandee\nActual Site \nPhoto\nClose up for Indoor Vs \nOutdoor\n\nLaunching Soon: \n\n3D view of the \nbuilding\n\nM30 grade high strength tile\nCoffee Coaster\nClairco Filters loaded with Dust\nWe upcycle the polypropylene \nbased filter media along with \nthe dust into Tiles/coasters \nCircular economy (further enabling carbon credits)\n\nCase Study: EMAAR Business Park, Gurgaon | 97,309 Sq.Ft.\nChallenge: \nAir   Purification   options   were \nexpensive  and  there  was  no \nguarantee of performance\nAction: \n- Clairco’s retrofittable high efficiency \nfilters  saved  on  heavy  CapEx  and \ndowntime\n-   Guaranteed   SLA   ensure \naccountability of performance\nResult: \n-  90% reduced PM2.5 concentrations \nin indoor air as compared to outdoor \n- SLAs have been maintained every \nmonth since   launch   in \nFebruary 2020.\n(PM2.5 indoor vs outdoor)\n\nCase Study: Energy Saving at WTC, Bangalore\nChallenge: \nClient was looking for effective ways \nof  overall  energy  saving  while \navoiding heavy CapEx\n●Action: \n- Deployment in Oct 2022 as a pilot.\n●Result: \n-  32% saving on cooling energy was \nachieved based on Clairco’s energy \noptimization AI.\n-  This  translates  to 15-18% overall \nenergy saving.\nEnergy Consumption with vs without Clairco","service":"mxr","timestamp":"2024-06-20 14:31:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:41:57"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-16 03:41:58"}
+{"level":"info","message":"Source ID Response: {\"sourceId\":\"src_9YhPEizaMaoNxnvHXPFjR\"}","service":"mxr","timestamp":"2024-07-16 03:42:09"}
+{"level":"info","message":"Source ID: src_9YhPEizaMaoNxnvHXPFjR","service":"mxr","timestamp":"2024-07-16 03:42:09"}
+{"level":"info","message":"Extracted Text: \n\nϢϢ\nSweet, savory, fried pizza pockets,  \nstarting at ₱59\n\nStarbucks US vs. PH  \nFood businesses are doing exceptionally well in the \nPhilippines, especially scalable mass market concepts \n~300 stores\nStarted 2021\n~1,400 stores\nStarted 1992\n~800 stores\nStarted 2015\n~200 stores\nStarted 1991\n~700 stores\nStarted 2007\n~600 stores\nStarted 2003\n~1,300 stores\nStarted 1997\n~70 stores\nStarted 2021\n~200 stores\nStarted 2006\n●Large Market of 110M people \n\n●High expenditure on food\n\n●But low labour costs \nStarbucks coffee: $3.60\nAvg. hourly wage $34.8\nStarbucks coffee: $3.20\nAvg. hourly wage $2.1\nТ\nє\nCoffee to wage \nratio: 0.10x\nCoffee to wage \nratio: 1.52x\n\nCase study: Shawarma Shack scaled a mass market F&B \nconcept to 800 stores with limited capital\n●Savory, foreign street food concept \nwith simplified store operations\n●Price as strong value proposition \nwith sub-₱100 signature dishes\n●Strategic locations (malls, \ntransport terminals, etc.) \n●Limited marketing spend \n●Capital light expansion through \nfranchising\n800 stores \nwithin 9 years\n\nPanzerotti are a popular Italian street food - a fried \npizza pocket with sweet dough and savory fillings\n●Originated in southern Italy from Apulia, but \npopular across entire Italy\n○Luini in Milan is one of the most famous Panzerotti \nplaces in Italy  \n○That’s where Julian discovered them\n●Hitting the Filipino palate with a mix of fried, \nsweet and savory elements\n○Popular Filipino dishes share this flavor combination \n(Sweet Spaghetti & Fried Chicken, Tapsilog, Tosilog \nor Longsilog)\n●Papi’s recipe has been refined based on several \ntest eatings with >30 people\n○Papi's variants are adapted to Filipino taste with \nflavors as Corned Beef + Spinach & Cream\nϢ\nТ\n೏\n\nFocus on mass market with competitive pricing starting \nat ₱59 based on simple and scalable operations \n●Low Price point starting at ₱59 \n○Affordable pricing results in a large addressable market\n○Competitive pricing within PH food cart landscape \n\n●Simplification on store level \n○Store processes limited to frying and cashiering\n○Resulting in low cost store set-up\n\n●Mass production of product in central kitchen \n○Preparation, pre-frying and freezing of products for faster \nin-store process, easier transport and longer shelf life\n○Better quality control by minimizing production sites\n○Production at lower costs through scale effects\n\nSuccessful first pilots indicate initial PMF \n\n●Location: adjacent to Sari Sari \nstore (Baguio)\n●Date & Time: Saturday \n4-5pm\n●Sales: 30 Panzerotti in 50 min \n\nBaguio 1st test \n\n●Location: in front of Z-Hostel \n(Makati)\n●Date & Time: Saturday & \nSunday 7.30-10.30pm\n●Sales: 75 Panzerotti in 6 hours \nPoblacion \n\n●Location: adjacent to Sari Sari \nstore (Baguio)\n●Date & Time: Saturday \n5-7.30pm\n●Sales: 60 Panzerotti in 2.5 hours \nBaguio 2nd Test \nSales velocity: 38 per hourSales velocity: 13 per hourSales velocity: 24 per hour\n\nDisplay boards\nPapi’s easy store concept works in various setups, \nranging from food carts to kiosks to in-line stalls...\nProduct photos\nBright & colorful \ndesign\nEmphasis of prices\nDisplay showcases\n~2x2m\nFreezer\nFryer\nCash register\nStorage\nProduct \nshowcase\n\n...resulting in a span of location options that also match \nthe target market...\nFood destinations\nWaiting areas\nWorkplaces\nSchools\nMalls, markets, courts\nBus terminals, jeepney \nlines, hospitals\nOffice lobbies, \ncafeterias, warehouses\nUniversities, colleges, \nmid - & high schools\n→ High foot traffic & matching crowd\nEasy store selection process by \n“follow the competition” approach\n\n... enhanced by colorful marketing & packaging to drive \nbrand recognition\n●Bright colored ads and packaging stand out\n○Neo yellow and pink are differentiating from other PH \nF&B brands that are mostly colored red, green, white..\n\n●High brand recognition\n○An eye-catching design + unique color combination + \neasy-memorable brand name Papi’s \n●Turning customers into marketing campaigns \n\nMilano Vice \nfrom Germany\nJokolade Chocolate \nfrom Germany\nFlash Coffee \nfrom ID\n\nPanzerotti offer strong price economics on product \nlevel... \n\nAverage\nClassic \nCheeseHam\nSpinach & \nCreamCorned Beef\nCheeseburg\ner\nPrice₱71.00₱59.00₱69.00₱69.00₱79.00₱79.00\nMaterial Costs₱15.74₱9.31₱15.31₱15.51₱16.70₱21.90\nProduction Costs₱7.84₱7.84₱7.84₱7.84₱7.84₱7.84\nProduct Profit₱47.42₱41.85₱45.85₱45.65₱54.46₱49.26\nProduct Profit \nMargin66.97%70.94%66.45%66.16%68.94%62.35%\nPotato corner with \n48% GP margin \n\n... resulting in high store profitability... \nDaily Sales91100200300400\n08:00-11:0000000\n11:00-14:00273370100145\n14:00-17:001515153030\n17:00-20:00273475105125\n20:00-23:0022184065100\n\nRevenue₱173,063₱190,179₱380,357₱570,536₱760,714\nProduct Costs₱69,380₱76,242₱152,483₱228,725₱304,967\nLabor costs₱48,000₱48,000₱72,000₱72,000₱72,000\nRental & Electricity costs₱54,000₱54,000₱54,000₱54,000₱54,000\nStore Profit\n₱1,683₱11,937₱101,874₱215,811₱329,748\nStore Profit margin\n1.0%6.3%26.8%37.8%43.3%\nStore \nbreak-even \n\nSales assumptions\n●Sales assumed based on \nprojection of pilot data\nLabour assumptions\n●2-3x employees per day \n(depending on sales)\n●₱800 per day (same as \nother F&B companies)\nRental assumptions \n●₱1,500 per day (for mall \nand school kiosks)\n●20% electricity costs \nProjection of  Poblacion \npilot data: 100-125 \nProjection of  Baguio \npilots data: 200-300 \n\n... and low payback time of stores after 5 months   \nSet-up costs per store Projected store ramp-up \n\nKitchen equipment₱55.000,00\nOther equipment₱15.000,00\nConstruction₱60.000,00\nWorking capital₱50.000,00\nOpening inventory₱12.000,00\nPermits₱25.000,00\nLaunch Marketing₱30.000,00\n\nTotal₱247.000,00\nMargin0%13%22%26%30%33%34%30%31%32%32%33%\nSales (per day)90115140160180200210220230235240245\nProjections exclude drinks \n\nGrab & Foodpanda as additional growth lever, but \nfurther assessment required\n●Option A: Offer delivery as add-on to \nexisting (franchise) stores\n+Additional sales for all Papi’s stores\n+Simple setup and synergy with store operations\n−Partially forfeiting delivery revenue to franchisees\n\n●Option B: Build own ghost kitchens to \noptimize delivery experience\n+Strategic locations for optimal coverage\n+Keeping online revenue stream in-house\n−Additional complexity and costs\n\nPickup Coffee has 20-30% online sales and 10-15% \nhigher prices to compensate for delivery commission \n\nCompany ProductPrice Range\n\nPapi’sFried pizza pockets ₱59-₱79\n\nPotato CornerFlavored fries & add-ons₱39-₱225\n\nJamaican PattiesBaked pastry with savory fillings₱75\n\nTurk’s ShawarmaPita wrap with meat or veggie filling₱65-₱240\n\nPickup CoffeeCoffee, hot beverages & pastries₱50-₱105\n\nMinute BurgerBurgers & Hotdogs₱43-₱152\nPapi’s price and product offering matches the successful \nF&B businesses in the Philippines\n\nPotato Corner\nacquired by\nShakey’s\nundisclosed\nPancake House Inc.\nacquired by\nMax’s Group\n$87M\nJamaican Patty\nacquired by\nFruitas\nundisclosed\n\nChowking\nacquired by\nJollibee\nundisclosed\n\nMang Inasal\nacquired by\n\nJollibee\n$100M \n(valuation)\n\nThe Filipino F&B industry offers an attractive M&A \nenvironment for a potential exit down the road\n\nBy raising $50,000 Papi’s can launch 3 profitable stores \nand build a strong foundation for future growth\n$50,000+\n●Product refinement\n●Setup of production process\n●Prep for 1st store\n●Launch of stores 2 & 3\n●Scaling of production process\n●Refinement of marketing concepts\n...whereof $30,000 \nalready committed \n●Open 1st store\n●Refinement of production process\n●Testing of marketing concepts\nQ2-Q3/24\nPhase 1\nQ3-Q4/24\nPhase 2\nQ4/24-Q1/25\nPhase 3\n\nExpansion of Papi’s has low capital requirements due to  \nfranchise model approach\n... scaling via franchise model has low capital requirements \n\n... 1 more funding round planned (if ever for central kitchen) \n\n... followed by profitable growth \n\n... rule of thumb: 30% own stores and 70% franchise stores\n\nPapi’s founding team has a strong collaborative history \nand experience to build and scale a multi-store business\nFounder & CEO\nBackground in expansion, operational \nexcellence and product management\nFounding Investor\nBackground in retail & ecommerce, finance, \nstrategy and fundraising\nJulian KemkesHarm-Julian Schumacher","service":"mxr","timestamp":"2024-07-16 03:42:09"}
+{"level":"info","message":"OpenAI Response: [{\"name\":\"Papi’s\",\"category\":\"Food & Beverage\",\"traction\":\"800 stores within 9 years\",\"funds_raised\":\"$50,000+\",\"customers\":null,\"market_size\":null,\"team\":\"Founder & CEO: Julian Kemkes, Founding Investor: Harm-Julian Schumacher\",\"revenue\":null,\"locatedAt\":\"Philippines\",\"summary\":\"Papi’s specializes in fried pizza pockets, a popular Italian street food customized for the Filipino palate, with competitive pricing and mass market targeting. Offering includes variants like Corned Beef + Spinach & Cream, targeting a large addressable market with simple, scalable operations and low capital requirement for expansion through franchising.\"}]","service":"mxr","timestamp":"2024-07-16 03:42:20"}
+{"level":"info","message":"User updated with file details asynchronously","service":"mxr","timestamp":"2024-07-16 03:42:20"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:42:20"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-16 03:42:41"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-16 03:42:41"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:43:12"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:43:23"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-16 03:43:43"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-16 03:43:43"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:43:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-16 03:44:13"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-16 03:44:13"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:45:13"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:45:42"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-16 03:46:04"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-16 03:46:04"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:46:47"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:47:10"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:47:29"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:47:49"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-16 03:48:10"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-16 03:48:10"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-16 03:49:10"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-16 03:49:31"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-16 03:49:31"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:04:42"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 05:05:03"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 05:05:03"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:06:03"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 05:06:23"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 05:06:23"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:07:23"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:09:17"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 05:09:37"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 05:09:37"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:09:42"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 05:10:03"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 05:10:03"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:11:03"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 05:11:23"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 05:11:23"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:11:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:12:13"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 05:12:33"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 05:12:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:12:48"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:13:02"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:13:17"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:13:37"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 05:13:57"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 05:13:57"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:14:05"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 05:14:15"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 05:14:35"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 05:14:35"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:30:23"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:30:42"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:31:02"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:31:02"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:31:31"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:31:51"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:31:51"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:32:51"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:33:11"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:33:11"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:34:11"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:34:32"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:34:32"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:35:32"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:35:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:35:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:36:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:37:12"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:37:12"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:38:12"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:38:33"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:38:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:39:33"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:39:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:39:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:40:17"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:40:37"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:40:37"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:41:13"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:41:33"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:41:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:42:33"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:42:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:42:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:43:32"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:43:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:43:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:44:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:45:13"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:45:13"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:46:13"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:46:33"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:46:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:46:39"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:46:59"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:46:59"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:47:59"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:48:19"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:48:19"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:49:19"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:49:40"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:49:40"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:50:25"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:50:46"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:50:46"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:51:46"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:52:07"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:52:07"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:53:07"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:53:27"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:53:27"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:54:27"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:54:49"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:54:49"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:55:49"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:56:09"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:56:09"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:57:09"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:57:29"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:57:29"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:58:29"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 15:58:50"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 15:58:50"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 15:59:50"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:00:10"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:00:10"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:01:10"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:01:30"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:01:30"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:02:30"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:02:50"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:02:50"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:03:51"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:04:11"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:04:11"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:05:11"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:05:31"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:05:31"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:06:31"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:06:51"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:06:51"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:07:51"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:08:12"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:08:12"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:09:12"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:09:32"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:09:32"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:10:32"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:10:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:10:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:11:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:12:13"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:12:13"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:13:13"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:13:33"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:13:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:14:33"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:14:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:14:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:15:53"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:16:14"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:16:14"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:17:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:17:34"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:17:34"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:18:34"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:18:54"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:18:54"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:19:54"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:20:14"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:20:14"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:21:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:21:35"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:21:35"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:22:35"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:22:55"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:22:55"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:23:55"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:24:15"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:24:15"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:25:15"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:25:35"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:25:35"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:26:35"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:26:56"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:26:56"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:27:56"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:28:16"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:28:16"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:29:16"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:29:36"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:29:36"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:30:36"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:30:57"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:30:57"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:31:57"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:32:17"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:32:17"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:32:51"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:33:11"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:33:11"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:34:11"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:34:31"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:34:31"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:35:31"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:35:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:35:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:36:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:37:12"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:37:12"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:38:12"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:38:32"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:38:32"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:39:32"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:39:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:39:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:40:53"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:41:14"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:41:14"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:42:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:42:34"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:42:34"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:43:34"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:43:55"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:43:55"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:44:55"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:45:15"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:45:15"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:46:15"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:46:35"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:46:35"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:47:35"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:47:56"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:47:56"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:48:56"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:49:16"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:49:16"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:50:16"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:50:36"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:50:36"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:51:36"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:51:57"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:51:57"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:52:57"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:53:17"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:53:17"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:54:17"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:54:37"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:54:37"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:55:37"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:55:57"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:55:57"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:56:57"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:57:18"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:57:18"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:58:18"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:58:38"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:58:38"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 16:59:38"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 16:59:58"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 16:59:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:00:58"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:01:19"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:01:19"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:02:19"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:02:29"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:02:49"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:02:49"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:03:49"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:04:10"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:04:10"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:05:10"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:05:31"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:05:31"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:06:31"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:06:51"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:06:51"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:07:51"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:08:12"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:08:12"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:09:12"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:09:32"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:09:32"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:10:32"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:10:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:10:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:11:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:12:13"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:12:13"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:13:13"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:13:33"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:13:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:14:33"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:14:54"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:14:54"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:15:54"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:16:14"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:16:14"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:17:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:17:34"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:17:34"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:18:34"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:18:55"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:18:55"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:19:55"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:20:15"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:20:15"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:21:15"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:21:36"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:21:36"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:22:36"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:22:56"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:22:56"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:23:56"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:24:17"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:24:17"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:25:17"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:25:37"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:25:37"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:26:37"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:26:57"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:26:57"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:27:57"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:28:17"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:28:17"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:29:17"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:29:38"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:29:38"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:30:38"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:30:58"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:30:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:31:58"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:32:18"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:32:18"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:32:34"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:32:55"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:32:55"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:33:55"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:34:15"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:34:15"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:35:15"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:35:35"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:35:35"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:36:35"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:36:56"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:36:56"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:37:56"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:38:16"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:38:16"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:39:16"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:39:36"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:39:36"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:40:36"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:40:57"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:40:57"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:41:57"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:42:17"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:42:17"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:43:17"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:43:38"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:43:38"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:44:38"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:44:58"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:44:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:45:26"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:45:46"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:45:46"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:45:50"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:46:11"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:46:11"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:46:20"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:46:40"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:46:40"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:47:40"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:48:01"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:48:01"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:49:01"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:49:21"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:49:21"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:50:21"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:50:41"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:50:41"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:51:41"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:52:02"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:52:02"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:53:02"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:53:23"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:53:23"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:54:23"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:54:43"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:54:43"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:55:43"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:56:04"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:56:04"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 17:57:04"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 17:57:24"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 17:57:24"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:04:20"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:04:42"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:04:42"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:05:42"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:06:02"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:06:02"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:07:02"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:07:23"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:07:23"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:08:23"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:08:44"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:08:44"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:09:44"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:10:04"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:10:04"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:11:04"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:11:24"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:11:24"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:12:24"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:12:44"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:12:44"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:13:44"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:14:05"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:14:05"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:15:05"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:15:25"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:15:25"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:16:25"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:16:46"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:16:46"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:17:46"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:18:06"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:18:06"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:19:06"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:19:26"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:19:26"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:20:26"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:20:47"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:20:47"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:21:47"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:22:07"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:22:07"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:23:07"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:23:27"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:23:27"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:24:27"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:24:48"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:24:48"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:25:48"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:26:08"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:26:08"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:27:08"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:27:29"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:27:29"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:28:29"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:28:49"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:28:49"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:29:50"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:30:10"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:30:10"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:31:10"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:31:30"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:31:30"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:32:30"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:32:51"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:32:51"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:33:51"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:34:11"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:34:11"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:35:11"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:35:31"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:35:31"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:36:31"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:36:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:36:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:37:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:38:12"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:38:12"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:39:12"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:39:32"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:39:32"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:40:32"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:40:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:40:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:41:53"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:42:13"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:42:13"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:43:13"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:43:33"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:43:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:44:33"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:44:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:44:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:45:53"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:46:14"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:46:14"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:47:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:47:34"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:47:34"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:48:34"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:48:54"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:48:54"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:49:54"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:50:15"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:50:15"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:51:15"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:51:35"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:51:35"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:52:35"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:52:55"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:52:55"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:53:55"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:54:16"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:54:16"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:55:16"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:55:36"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:55:36"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:56:36"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:56:56"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:56:56"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:57:56"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:58:17"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:58:17"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 18:59:17"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 18:59:37"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 18:59:37"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:00:37"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:00:57"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:00:57"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:01:57"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:02:18"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:02:18"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:02:46"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:03:06"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:03:06"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:04:06"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:04:27"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:04:27"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:05:27"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:05:47"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:05:47"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:14:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:14:34"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:14:34"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:15:34"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:15:55"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:15:55"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:16:55"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:17:15"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:17:15"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:18:15"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:18:35"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:18:35"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:19:35"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:19:56"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:19:56"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:20:56"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:21:16"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:21:16"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:22:16"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:22:36"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:22:36"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:23:36"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:23:57"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:23:57"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:24:57"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:25:17"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:25:17"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:26:17"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:26:38"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:26:38"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:27:38"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:27:58"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:27:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:28:58"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:29:18"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:29:18"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:30:18"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:30:39"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:30:39"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:31:39"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:31:59"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:31:59"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:32:59"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:33:19"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:33:19"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:34:19"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:34:39"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:34:39"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:35:40"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:36:00"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:36:00"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:37:00"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:37:20"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:37:20"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:38:20"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:38:41"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:38:41"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:39:41"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:40:01"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:40:01"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:41:01"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:41:21"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:41:21"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:42:21"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:42:42"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:42:42"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:43:42"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:44:02"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:44:02"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:45:02"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:45:22"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:45:22"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:46:22"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:46:43"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:46:43"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:47:43"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:48:03"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:48:03"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:49:03"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:49:23"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:49:23"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:50:23"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:50:43"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:50:43"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:51:43"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:52:04"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:52:04"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:53:04"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:53:24"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:53:24"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:54:24"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:54:45"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:54:45"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:55:45"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:56:05"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:56:05"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:57:05"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:57:25"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:57:25"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:58:25"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 19:58:46"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 19:58:46"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 19:59:46"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:00:06"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:00:06"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 20:01:06"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:01:26"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:01:26"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 20:02:26"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:02:47"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:02:47"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 20:03:47"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:04:07"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:04:07"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 20:05:07"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:05:27"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:05:27"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 20:42:03"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:42:24"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:42:24"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 20:43:24"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:43:45"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:43:45"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 20:44:45"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:45:05"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:45:05"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 20:46:05"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:46:26"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:46:26"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 20:47:26"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:47:46"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:47:46"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 20:48:46"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:49:07"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:49:07"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 20:50:07"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 20:50:27"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 20:50:27"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:10:11"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:10:30"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:10:51"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:10:51"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:11:51"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:12:11"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:12:32"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:12:32"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:13:32"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:13:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:13:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:14:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:15:12"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:15:12"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:16:12"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:16:33"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:16:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:17:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:17:49"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:18:09"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:18:09"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:18:39"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:19:00"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:19:00"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:20:00"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:20:20"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:20:20"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:21:20"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:21:41"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:21:41"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:22:41"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:23:01"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:23:01"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:23:06"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:23:26"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:23:26"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:24:26"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:24:47"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:24:47"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:25:09"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:25:29"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:25:29"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:25:51"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:26:11"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:26:11"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:27:12"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:27:32"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:27:32"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:28:32"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:28:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:28:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:29:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:30:13"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:30:13"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:31:13"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:31:33"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:31:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:32:33"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:32:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:32:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:33:53"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:34:14"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:34:14"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:35:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:35:34"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:35:34"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:36:34"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:36:55"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:36:55"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:37:55"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:38:15"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:38:15"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:39:15"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:39:36"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:39:36"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:40:36"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:40:56"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:40:56"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:41:56"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:42:16"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:42:16"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:43:16"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:43:37"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:43:37"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:44:37"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:44:57"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:44:57"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:45:57"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:46:18"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:46:18"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:47:18"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:47:38"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:47:38"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:48:38"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:48:58"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:48:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:49:58"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:50:19"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:50:19"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:51:19"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:51:39"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:51:39"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:52:39"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:52:59"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:52:59"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:53:59"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:54:20"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:54:20"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:55:20"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:55:41"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:55:41"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:56:41"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:57:01"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:57:01"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:57:24"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:57:44"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:57:44"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 22:58:44"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 22:59:05"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 22:59:05"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:00:05"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:00:26"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:00:26"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:00:47"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:01:07"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:01:07"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:02:07"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:02:27"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:02:27"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:03:27"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:03:48"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:03:48"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:04:48"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:05:08"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:05:08"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:06:08"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:06:28"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:06:28"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:07:28"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:07:49"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:07:49"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:08:49"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:09:09"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:09:09"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:10:09"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:10:29"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:10:29"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:11:29"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:11:50"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:11:50"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:12:50"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:13:10"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:13:10"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:14:10"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:14:30"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:14:30"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:15:30"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:15:51"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:15:51"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:16:51"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:17:11"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:17:11"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:18:11"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:18:32"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:18:32"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:19:32"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:19:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:19:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:20:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:21:13"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:21:13"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:22:13"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:22:33"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:22:33"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:23:33"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:23:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:23:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:24:53"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:25:14"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:25:14"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:26:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:26:34"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:26:34"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:27:34"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:27:54"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:27:54"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:28:54"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:29:15"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:29:15"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:30:15"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:30:36"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:30:36"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:31:36"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:31:56"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:31:56"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:32:56"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:33:16"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:33:16"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:34:16"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:34:37"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:34:37"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:35:37"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:35:57"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:35:57"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:36:57"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:37:18"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:37:18"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:38:18"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:38:38"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:38:38"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:39:38"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:39:58"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:39:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:40:58"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:41:19"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:41:19"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:42:19"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:42:39"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:42:39"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:43:39"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:44:00"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:44:00"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:45:00"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:45:20"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:45:20"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:46:20"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:46:40"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:46:40"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:47:40"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:48:04"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:48:04"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:49:04"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:49:26"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:49:26"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:50:26"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:50:48"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:50:48"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:51:48"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:52:10"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:52:10"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:53:10"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:53:31"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:53:31"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:54:31"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:54:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:54:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:55:53"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:56:14"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:56:14"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:57:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:57:37"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:57:37"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:58:37"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-22 23:58:58"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-22 23:58:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-22 23:59:58"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:00:19"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:00:19"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:01:19"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:01:43"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:01:43"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:02:43"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:03:04"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:03:04"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:04:04"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:04:25"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:04:25"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:05:25"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:05:46"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:05:46"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:06:46"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:07:06"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:07:06"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:08:06"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:08:28"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:08:28"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:09:28"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:09:49"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:09:49"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:10:49"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:11:09"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:11:09"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:12:09"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:12:31"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:12:31"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:13:31"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:13:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:13:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:14:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:15:12"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:15:12"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:16:12"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:16:35"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:16:35"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:17:35"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:17:58"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:17:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:18:58"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:19:18"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:19:18"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:20:18"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:20:40"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:20:40"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:21:40"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:22:01"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:22:01"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:23:01"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:23:24"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:23:24"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:24:24"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:24:45"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:24:45"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:25:45"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:26:08"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:26:08"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:27:08"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:27:30"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:27:30"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:28:30"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:28:50"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:28:50"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:29:50"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:30:12"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:30:12"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:31:12"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:31:32"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:31:32"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:32:32"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:32:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:32:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:33:53"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:34:14"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:34:14"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:35:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:35:36"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:35:36"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:36:36"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:36:56"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:36:56"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:37:56"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:38:18"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:38:18"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:39:18"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:39:41"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:39:41"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:40:41"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:41:01"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:41:01"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:42:01"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:42:22"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:42:22"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:43:22"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:43:45"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:43:45"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:44:45"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:45:05"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:45:05"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:46:05"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:46:29"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:46:29"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:47:29"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:47:50"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:47:50"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:48:50"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:49:10"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:49:10"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:50:10"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:50:31"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:50:31"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:51:31"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:51:52"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:51:52"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:52:52"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:53:15"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:53:15"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:54:15"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:54:36"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:54:36"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:55:36"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:55:59"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:55:59"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:56:59"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:57:23"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:57:23"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:58:23"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 00:58:45"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 00:58:45"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 00:59:45"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:00:06"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:00:06"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:01:06"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:01:29"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:01:29"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:02:29"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:02:53"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:02:53"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:03:53"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:04:13"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:04:13"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:05:14"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:05:35"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:05:35"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:06:35"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:06:58"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:06:58"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:07:58"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:08:19"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:08:19"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:09:19"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:09:41"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:09:41"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:10:41"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:11:02"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:11:02"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:12:02"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:12:25"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:12:25"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:13:25"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:13:48"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:13:48"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:14:48"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:15:09"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:15:09"}
+{"level":"info","message":"Receiving messages from the queue...","service":"mxr","timestamp":"2024-07-23 01:16:09"}
+{"level":"info","message":"Messages received from the queue","service":"mxr","timestamp":"2024-07-23 01:16:30"}
+{"level":"info","message":"No messages in the queue. Waiting...","service":"mxr","timestamp":"2024-07-23 01:16:30"}
