@@ -13,7 +13,6 @@ const razorpay = new Razorpay({
 
 exports.createOrder = async (req, res) => {
  
-
   try {
     const { email } = req.user;
     const { amount } = req.body;

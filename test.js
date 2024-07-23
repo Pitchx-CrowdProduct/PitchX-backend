@@ -6,8 +6,8 @@ const jwt = require('jsonwebtoken');
 const JWT_SECRET = 'pK7vX9R$mJ3qLzF2wN8cA5hT@bE4uY67' 
 console.log(JWT_SECRET);
 const payload = {
-    sub: '123456`',
-    email: 'pramaths848@gmail.com'
+    sub: "google-oauth2|116284241721006139510",
+  email: "pramaths848@gmail.com",
   };
   
 

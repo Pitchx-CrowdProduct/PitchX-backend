@@ -13,39 +13,14 @@ const { auth } = require('express-oauth2-jwt-bearer');
 const jwt = require('jsonwebtoken');
 
 
-const verifyToken = (req, res, next) => {
-  const bearerHeader = req.headers['authorization'];
-  if (typeof bearerHeader !== 'undefined') {
-    const bearer = bearerHeader.split(' ');
-    const bearerToken = bearer[1];
-    jwt.verify(bearerToken, process.env.JWT_SECRET, (err, decoded) => {
-      if (err) {
-        return res.sendStatus(403);
-      }
-      req.user = decoded;
-      next();
-    });
-  } else {
-    res.sendStatus(403);
-  }
-};
-
-const checkJwt = auth({
-  audience: process.env.AUTH0_AUDIENCE,
-  issuerBaseURL: process.env.AUTH0_ISSUER_BASE_URL,
-});
-
-
 processMessages();
 app.use(morgan('dev'));
 // app.use(auth(config));
 app.use(cors());
-app.get('/', checkJwt, (req, res) => {
+app.get('/', (req, res) => {
   res.send('Hello World!');
 });
 app.use(bodyParser.json());
-
-
 
 
 app.post('/extract-text', async (req, res) => {
